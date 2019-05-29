@@ -1,7 +1,7 @@
 # phptest
 
 #STRUKTUR DATA TEST
-'''
+~~~~
 <?php$num = array(2, 1, 6, 9, 9, 7, 10);
 $max = $num[0];
 $smax = 0;
@@ -16,4 +16,4 @@ for($i=1; $i<count($num); $i++){
 	}
 }
 echo $smax;
-'''
+~~~~
