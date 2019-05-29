@@ -1,6 +1,6 @@
 # phptest
 
-###STRUKTUR DATA TEST
+###STRUKTUR DATA TEST###
 ~~~~
 <?php$num = array(2, 1, 6, 9, 9, 4, 3);
 $max = $num[0];
@@ -20,7 +20,7 @@ echo $smax;
 
 
 
-###Knowledge & Experience Questions
+###Knowledge & Experience Questions###
 
 1. 	Tantangan terbesar adalah ketika melanjutkan pekerjaan orang lain. saya harus melakukan tracing untuk memastikan code yang dibut tetap clean code
 2.  -menggunakan variabel yang jelas dan tidak ambigu;
